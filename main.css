@@ -47,34 +47,7 @@
     width: 147px;
 }
 
-.entry {
-    color: #FFF;
-    padding: 0px 0px 10px 60px;
-    font-family: Pretendard;
-    font-size: 20px;
-    font-style: 'Pretendard Medium';
-    font-weight: 500;
-}
-
-.git {
-    color: #FFF;
-    padding: 0px 0px 10px 60px;
-    font-family: Pretendard;
-    font-size: 20px;
-    font-style: 'Pretendard Medium';
-    font-weight: 500;
-}
-
-.figma {
-    color: #FFF;
-    padding: 0px 0px 10px 60px;
-    font-family: Pretendard;
-    font-size: 20px;
-    font-style: 'Pretendard Medium';
-    font-weight: 500;
-}
-
-.youtube {
+.link {
     color: #FFF;
     padding: 0px 0px 10px 60px;
     font-family: Pretendard;
